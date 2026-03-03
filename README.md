@@ -1,3 +1,14 @@
+## Overview
+This tool automatically imports manufacturing CSV data,
+aggregates production quantity and defect rate by product,
+and generates a dual-axis chart for KPI visualization.
+
+### Key Features
+- CSV auto import
+- Product-based aggregation
+- Defect rate calculation (zero-division safe)
+- Dual-axis chart generation
+- 
 ![Tool Screenshot](screenshot.png)
 
 # Excel VBA Production Summary Tool
