@@ -1,3 +1,5 @@
+![Tool Screenshot](screenshot.png)
+
 # Excel VBA Production Summary Tool
 
 ## Overview
