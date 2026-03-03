@@ -19,3 +19,9 @@ Manufacturing process improvement
 ## Improvement
 - Zero division protection implemented
 - Data type safety using CDbl conversion
+
+excel-vba-automation
+ ├─ ProductionSummaryTool.xlsm
+ ├─ Module1.bas
+ ├─ screenshot.png
+ └─ README.md
