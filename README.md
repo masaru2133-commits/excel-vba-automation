@@ -15,3 +15,7 @@ Excel 365
 
 ## Target
 Manufacturing process improvement
+
+## Improvement
+- Zero division protection implemented
+- Data type safety using CDbl conversion
